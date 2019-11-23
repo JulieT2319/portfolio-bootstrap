@@ -29,16 +29,29 @@
       </div>
     </nav>
     <div class="container mt-3 border border-light overflow-auto mb-5 bg-white">
-        <div class="border-bottom border-success">
-          <h1>Contact</h1>
+      <div class="border-bottom border-success">
+        <h1>Contact</h1>
       </div>
-      <form>
-        <div>
-          <label for=""></label>
-        </div>
-      </form>
+      <div>
+        <form class="p-5">
+          <div class="form-group">
+            <label for="ContactFormName">Name:</label>
+            <input type="text" id="ContactFormName" class="form-control mb-4 rounded-0">
+          </div>
+          <div class="form-group">
+            <label for="ContactFormEmail">Email:</label>
+            <input type="email" id="ContactFormEmail" class="form-control mb-4 rounded-0">
+          </div>
+          <div class="form-group">
+            <label for="ContactFormMessage">Message:</label>
+            <textarea class="form-control rounded-0" id="ContactFormMessage" rows="3"></textarea>
+          </div>
+          <button class="btn btn-info w-25 mt-3 rounded-0" type="submit">Submit</button>
+        </form>
     </div>
 
+ 
+ 
     <footer id="sticky-footer" class="mt-5 py-4 bg-dark text-white-50 border-top border-primary fixed-bottom">
       <div class="container text-center">
         <p>Copyright ©2019</p>
