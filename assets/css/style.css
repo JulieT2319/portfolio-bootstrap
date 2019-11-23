@@ -3,11 +3,23 @@ body{
 }
 
 nav.border-secondary{
-    border-bottom-color: #cccccc !important;
+    border-bottom-color: #33111f !important;
     border-bottom-width: 2px !important;
 }
 
 footer.border-primary{
-    border-top-color: #4AAAA5 !important;
+    border-top-color: #C5728E !important;
     border-top-width: 4px !important;
+}
+
+.bg-info {
+    background-color: #C5728E !important;
+}
+
+.border-success{
+    border-bottom-color: #C5728E !important;
+}
+
+div > h1 {
+    color: #33111f;
 }
