@@ -23,7 +23,7 @@ The about me page provides a brief description of who I am and what I enjoy to d
 This form will allow you to contact me regarding this project or any other project or interest showcased.
 **This form is not currently functional**
 
-### Porfolio
+### Portfolio
 
 ![Screen shot of Portfolio page](assets/images/portfolio-ss.jpg)
 
