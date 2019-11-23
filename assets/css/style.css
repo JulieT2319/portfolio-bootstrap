@@ -12,10 +12,14 @@ footer.border-primary{
     border-top-width: 4px !important;
 }
 
-.bg-info {
+.bg-info{
     background-color: #C5728E !important;
 }
 
+.btn-info {
+    background-color: #C5728E !important;
+    border-color: rgb(160, 92, 115) !important;
+}
 .border-success{
     border-bottom-color: #C5728E !important;
 }
