@@ -1,3 +1,13 @@
 body{
     background-image: url(../images/country-quilt.png);
 }
+
+nav.border-secondary{
+    border-bottom-color: #cccccc !important;
+    border-bottom-width: 2px !important;
+}
+
+footer.border-primary{
+    border-top-color: #4AAAA5 !important;
+    border-top-width: 4px !important;
+}
