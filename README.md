@@ -2,7 +2,7 @@
 
 ## Portfolio description
 
-This is a portfolio to illustrate who I am as programmer and a person, to show what I can bring to the table in coding environment
+This is a portfolio to illustrate who I am as programmer and a person, to show what I can bring to the table in a coding environment
 
 This portfolio was designed using HTML and the Bootstrap 4 CSS framework. This was built as a part of the University of Utah Coding Bootcamp, in order to illustrate the use and understanding of using CSS frameworks and responsive web design.
 
